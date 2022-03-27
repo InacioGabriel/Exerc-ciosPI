@@ -1,2 +1,2 @@
-# Exerc-ciosPI
+# ExerciciosPI
 Resolução dos exercícios
