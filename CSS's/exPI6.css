@@ -1,0 +1,27 @@
+.div_container{
+    background-color: white;
+    height: 500px;
+    width: 50vw;
+    border: 10px dotted black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.div_item1{
+    background-color: yellow;
+    height: 50px;
+    width: 30%;
+}
+.div_item2{
+    background-color: #ff8c00;
+    height: 100px;
+    width: 30%;
+}
+.div_item3{
+    background-color: green;
+    color: white;
+    font-size: 30px;
+    padding: 50px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
